@@ -1,4 +1,8 @@
 ```mermaid
+---
+config:
+  layout: tidy-tree
+---
 mindmap
   root((Vet Visits 2025))
     Dental Extraction at Duluth Animal Hospital
